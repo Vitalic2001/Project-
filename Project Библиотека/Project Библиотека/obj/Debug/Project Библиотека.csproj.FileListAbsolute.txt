@@ -1,0 +1,13 @@
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Project Библиотека.csproj.AssemblyReference.cache
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Project Библиотека.csproj.SuggestedBindingRedirects.cache
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Библиотека.Form1.resources
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Библиотека.Form2.resources
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Библиотека.Form3.resources
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Project_Библиотека.Properties.Resources.resources
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Project Библиотека.csproj.GenerateResource.cache
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Project Библиотека.csproj.CoreCompileInputs.cache
+E:\myPrograms\Project Библиотека\Project Библиотека\bin\Debug\Project Библиотека.exe.config
+E:\myPrograms\Project Библиотека\Project Библиотека\bin\Debug\Project Библиотека.exe
+E:\myPrograms\Project Библиотека\Project Библиотека\bin\Debug\Project Библиотека.pdb
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Project Библиотека.exe
+E:\myPrograms\Project Библиотека\Project Библиотека\obj\Debug\Project Библиотека.pdb
